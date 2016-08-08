@@ -1,6 +1,6 @@
 {
   "name": "okokok",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm模块发布事例",
   "main": "index.js",
   "scripts": {
